@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**johnlennonferreira/johnlennonferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# Hey, I'm John 👋
 
-Here are some ideas to get you started:
+Onchain builder from Brazil 🇧🇷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build Web3 games and tools using AI as my execution engine.
+Not a traditional dev — I'm a vibe coder and product builder.
+I bring onchain experience, product vision and ship real things 
+to mainnet.
+
+## 🎮 Projects
+
+### Flapy-Bleu
+Flappy Bird-style game deployed on Base mainnet.
+Multiple crypto-themed phases, original character and art direction.
+> [Play it here](https://flapy-bleu.vercel.app)
+
+### Bulk Trade Agent
+Automated trading agent built with Python. Work in progress 🔧
+> [Repository](https://github.com/johnlennonferreira/bulk-trade-agent)
+
+## ⛓️ Onchain
+- Active DeFi user — liquidity pools, perpetuals, spot
+- Airdrop researcher, tester and participant
+- EVM chains — Base, Ethereum and L2s
+
+## 🛠️ Tools I use
+Claude · GPT · Gemini · DeepSeek · Manus · Midjourney · 
+Leonardo AI · Sora · CapCut · Vibe coding / No-code AI
+
+## 📬 Let's connect
+[LinkedIn](https://www.linkedin.com/in/johnnferreira)
+
